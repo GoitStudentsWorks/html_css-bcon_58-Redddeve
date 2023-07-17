@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-WebCrafters/",
+    "build": "vite build --base=/html_css-bcon_58-Redddeve/",
     "preview": "vite preview"
   },
   "devDependencies": {
